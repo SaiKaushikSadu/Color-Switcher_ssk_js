@@ -1,0 +1,70 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: azure;
+    height: 70px;
+}
+
+.nav h2{
+    padding: 20px;
+    padding-right: 90px;
+    color:turquoise
+}
+
+.simple{
+    padding-top: 22px;
+    padding-left: 120px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.hex{
+    padding-top: 22px;
+    padding-right: 120px;
+    color: white;
+}
+
+.container{
+    border-radius: 10px;
+    padding-top: 220px;
+}
+
+.backcol{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    background-color: rgb(9, 254, 254);
+}
+
+span{
+    padding-top: 50px;
+    font-size:40px;
+    font-weight:bold;
+}
+
+.but{
+    text-align: center;
+    padding: 50px;
+}
+
+.click{
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: turquoise;
+    background-color: white;
+}
